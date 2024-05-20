@@ -13,6 +13,7 @@ This is a simple implementation of the classic Pong game using Python.
 
 ## Features
 - Classic Pong gameplay.
+- Scaling and Adaptable AI difficulty for game balance 
 - Simple and easy to understand code.
 
 ## Releases
