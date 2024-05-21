@@ -1,33 +1,23 @@
-# Maze Game
+# Pong Game
 
-This is a maze game created using Python and Pygame. Navigate through procedurally generated mazes with increasing difficulty.
+This is a simple implementation of the classic Pong game using Python.
 
 ## Installation
-
 - Download the repository files.
-- Install the required dependencies using:
-    ```bash
-    pip install pygame numpy
-    ```
-- Run `topdown.py` using Python 3.x.
+- Run `pong.py` using Python 3.x.
 
 ## How to Play
-
-- Use W, A, S, D keys or Arrow keys to control the player.
-- Reach the exit (marked in red) at the bottom-right corner of the maze.
-- The game continues with increasing levels of difficulty.
-- Press Q to quit anytime.
+- Use W and S keys to control the paddle.
+- The game continues until you decide to stop.
+- First to 6 points wins!
 
 ## Features
-
-- Procedurally generated mazes with increasing difficulty.
-- Simple and intuitive controls.
-- Real-time score calculation based on performance.
+- Classic Pong gameplay.
+- Scaling and Adaptable AI difficulty for game balance 
+- Simple and easy to understand code.
 
 ## Releases
-
-You can download the executable version of the game from the [Releases](https://github.com/YourUsername/Maze-Game/releases/) section.
+You can download the executable version of the game from the [Releases](https://github.com/SkyCreates/Pong-Game/releases/) section.
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
